@@ -1,0 +1,8 @@
+E:\PythonLab\Huaqing_Ruiyang\pythonProject\Project2_Day5\ultralytics-main\dataset_cups\images\val\997706b11f42a68092fa665a9ed7bfc1_720.jpg
+E:\PythonLab\Huaqing_Ruiyang\pythonProject\Project2_Day5\ultralytics-main\dataset_cups\images\val\cup1.jpg
+E:\PythonLab\Huaqing_Ruiyang\pythonProject\Project2_Day5\ultralytics-main\dataset_cups\images\val\e161ce37a1e177a57a93fc4740ab6cdb_720.jpg
+E:\PythonLab\Huaqing_Ruiyang\pythonProject\Project2_Day5\ultralytics-main\dataset_cups\images\val\fb04438923fa1f369b08e2ef619223d6.jpg
+E:\PythonLab\Huaqing_Ruiyang\pythonProject\Project2_Day5\ultralytics-main\dataset_cups\images\val\IMG_20250613_142350.jpg
+E:\PythonLab\Huaqing_Ruiyang\pythonProject\Project2_Day5\ultralytics-main\dataset_cups\images\val\panny1.jpg
+E:\PythonLab\Huaqing_Ruiyang\pythonProject\Project2_Day5\ultralytics-main\dataset_cups\images\val\vv1.jpg
+E:\PythonLab\Huaqing_Ruiyang\pythonProject\Project2_Day5\ultralytics-main\dataset_cups\images\val\vv2.jpg
